@@ -1,4 +1,4 @@
-- 👋 Hi, Jayson a web developer
+- 👋 Hi, I'm Jayson, a web developer
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on javascript project.
