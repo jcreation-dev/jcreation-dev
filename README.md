@@ -18,7 +18,7 @@ I'm Jayson. I'm a Full Stack Web Developer.
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Laravel](https://img.shields.io/badge/laravel-%23039BE5.svg?style=for-the-badge&logo=laravel)
+![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel)
 
 
 
