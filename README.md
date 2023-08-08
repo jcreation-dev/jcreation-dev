@@ -2,7 +2,7 @@
 
 I'm Jayson. I'm a Full Stack Web Developer.
 
-## 🌐 Projects that I worked on 
+## :triangular_ruler: Projects that I worked on 
 - [QCPU Sakay](https://websakay.web.app/)
 
 
