@@ -1,15 +1,19 @@
-# Hi 👋
+# Hi :wave:
 
 I'm Jayson. I'm a Full Stack Web Developer.
 
-## :triangular_ruler: Projects that I worked on 
+## :triangular_ruler: The endeavors I was involved in...
 - [QCPU Sakay](https://websakay.web.app/)
+- [Tanauan E-Services](https://eservices.tanauancity.gov.ph/)
+- [QC E-Services](https://qceservices.quezoncity.gov.ph/)
 
 
-## 🐫 Some side stuff that I'd like to share
+## :basketball: A few additional things I'd like to share...
+- [My Notes PWA](https://jcreation-dev.github.io/mynotespwa/) - A WebApp that is installable
+- [Venn Diagram App](https://jcreation-dev.github.io/venn-diagram-with-set-operations/)
 
 
-## ⚡ My Tech Stack
+## :fire: My Tech Stack...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -26,10 +30,8 @@ I'm Jayson. I'm a Full Stack Web Developer.
 
 
 
-## ⚙ Uses
-- Loves to use both Mac and Windows machines
+## :wrench: Tools I'm using...
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git Bash](https://git-scm.com/downloads) Terminal
 - [Google Chrome](https://www.google.com/intl/en_ph/chrome/) 
 
-## 📬 Find me everywhere
