@@ -9,7 +9,7 @@ I'm Jayson. I'm a Full Stack Web Developer.
 
 
 ## :basketball: A few additional things I'd like to share...
-- [My Notes PWA](https://jcreation-dev.github.io/mynotespwa/) - installable webapp
+- [My Notes PWA](https://my-notes-io.web.app/) - installable webapp
 - [Venn Diagram App](https://jcreation-dev.github.io/venn-diagram-with-set-operations/)
 
 
