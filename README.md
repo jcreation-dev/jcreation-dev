@@ -26,6 +26,7 @@ I'm Jayson. I'm a Full Stack Web Developer.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Mysql](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Codeigniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=php&logoColor=ffffff)
 
 
 
